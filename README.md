@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on Schedule  
 - 📫 How to reach me i will learn Panda
 
+Linguagens que quero **Aprender**:
+- [x] Python
+- [ ] SQL
+- [ ] C++
+- [ ] C#
+- [ ] R
+
 <div align="center">
   <a href="https://www.instagram.com/nico_eisfeld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasEisfeld&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
