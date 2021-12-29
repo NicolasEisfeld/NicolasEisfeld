@@ -5,12 +5,14 @@
 - 📫 How to reach me i will learn Panda
 
 Linguagens que quero **Aprender**	:man_technologist::
-- [x] ``Python``
-- [ ] ``SQL``
-- [ ] ``C++``
-- [ ] ``C#``
-- [ ] ``R``
- <img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- [x] ``Python``<img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- [ ] ``SQL``<img align="center" alt="Nico-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+- [ ] ``C++``<img align="center" alt="Nico-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+- [ ] ``C#``<img align="center" alt="Nico-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+- [ ] ``R``<img align="center" alt="Nico-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+
+ 
+ 
 <div align="center">
   <a href="https://www.instagram.com/nico_eisfeld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasEisfeld&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
