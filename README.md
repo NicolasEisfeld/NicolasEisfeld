@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Schedule  
 - 📫 How to reach me i will learn Panda
 
-### Linguagens que eu quero **Aprender**	:man_technologist::
+### Linguagens que eu quero **Aprender** até 2026	:man_technologist::
 - [x] ```Python``` <img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - [ ] ```SQL``` <img align="center" alt="Nico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 - [ ] ```C++``` <img align="center" alt="Nico-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
