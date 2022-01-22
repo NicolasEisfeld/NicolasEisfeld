@@ -9,7 +9,6 @@
 - [ ] ```SQL``` <img align="center" alt="Nico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 - [ ] ```C++``` <img align="center" alt="Nico-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 - [ ] ```C#``` <img align="center" alt="Nico-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-- [ ] ```C``` <img align="center" alt="Nico-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 - [ ] ```R``` <img align="center" alt="Nico-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 - [ ] ```Julia``` <img align="center" alt="Nico-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
 - [ ] ```Java``` <img align="center" alt="Nico-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
