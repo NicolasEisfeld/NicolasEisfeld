@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicolasEisfeld
+## 👋 Hi, I’m Nicolas Eisfeld
 - 👀 I’m interested in Data Science
 - 📫 I'm studying IT in IFRS technical education
 
