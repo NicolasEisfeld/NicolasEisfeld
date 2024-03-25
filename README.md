@@ -2,15 +2,19 @@
 - 👀 I’m interested in Data Science
 - 📫 I'm studying IT in IFRS technical education
 
-### Linguagens:
+### Minhas Linguagens:
 ```Python``` <img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-
 ```SQL``` <img align="center" alt="Nico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
 ```C++``` <img align="center" alt="Nico-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
 ```C#``` <img align="center" alt="Nico-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 ```R``` <img align="center" alt="Nico-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+
 ```Java``` <img align="center" alt="Nico-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 ```JavaScript``` <img align="center" alt="Nico-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
  
