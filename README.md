@@ -4,7 +4,8 @@
 
 ### Linguagens:
 ```Python``` <img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<\br>
+
+
 ```SQL``` <img align="center" alt="Nico-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 ```C++``` <img align="center" alt="Nico-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 ```C#``` <img align="center" alt="Nico-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
