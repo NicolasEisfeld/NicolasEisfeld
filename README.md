@@ -24,6 +24,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
 
 <br>
+<br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
