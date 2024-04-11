@@ -28,7 +28,7 @@
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
+<p >
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=NicolasEisfeld&show_icons=true&theme=dark" alt="NicolasEisfeld's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEisfeld&layout=compact&theme=dark" alt="NicolasEisfeld's most languages"/>
 </p>
