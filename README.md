@@ -7,7 +7,6 @@
   
 - 🐍 I'm programmer in Python
 
-
 <br />
 
 ## 💻 Tech Abilitys
@@ -23,8 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-262626?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
 
-<br />
-<br />
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
