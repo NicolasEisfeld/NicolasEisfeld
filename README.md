@@ -41,9 +41,3 @@
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
-<br/>
-
-<a>
-  <img align="center"
-src="https://camo.githubusercontent.com/1c5816fa9abb6ff6a73652a6de65c7e80e33029e7811ee681d875c32421f5ac6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d44756f6c696e676f26636f6c6f723d323232323232266c6f676f3d44756f6c696e676f266c6f676f436f6c6f723d353843433032266c6162656c3d" alt=""
-</a>
