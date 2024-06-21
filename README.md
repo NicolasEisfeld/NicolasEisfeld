@@ -6,7 +6,7 @@
   
 - 📖 I'm studying IT in IFRS technical education
   
-- 🐍 I'm programmer in Python
+- 🐍 I'm programmer in Python and Java
 
 <br />
 
