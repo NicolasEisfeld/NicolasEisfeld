@@ -1,4 +1,4 @@
-<img align="right" height="490em" src="https://i.pinimg.com/564x/3d/e6/9d/3de69de16f190c1be002c358e9ba8775.jpg"/>
+
 <h1 align="left">Hi, I’m Nicolas Eisfeld! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=gray" alt="Profile views" /> </p>
 
