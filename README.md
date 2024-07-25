@@ -10,7 +10,7 @@
 
 <br />
 
-## 💻 Tech Abilitys
+## 💻 Hard Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-262626?style=flat&logo=python)&nbsp;
