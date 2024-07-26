@@ -1,8 +1,5 @@
 
 <h1 align="left">Hi, I’m Nicolas Eisfeld! </h1>
-<div align="right">
-  <img src="https://i.pinimg.com/originals/52/ed/f6/52edf6e9dc6521d2fd27b72e57212f29.gif" height="1000" width="450">
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=gray" alt="Profile views" /> </p>
 
@@ -18,6 +15,7 @@
 </div>
 
 <br />
+
 ## 💻 Hard Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=javascript)&nbsp;
