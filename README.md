@@ -1,8 +1,10 @@
 
 <h1 align="left">Hi, I’m Nicolas Eisfeld! </h1>
 
-<img align="right" height="210" src="https://art.pixilart.com/sr234bdd746d0aws3.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=gray" alt="Profile views" /> </p>
+
+<img align="right" height="210" src="https://art.pixilart.com/sr234bdd746d0aws3.png">
+
 
 <div align="left">
 
