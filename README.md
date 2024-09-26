@@ -28,8 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-262626?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
 ![Java](https://img.shields.io/badge/Java-262626.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-262626?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-262626?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-262626?logo=cplusplus)&nbsp;
 
