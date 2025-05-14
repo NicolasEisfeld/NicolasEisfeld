@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=gray" alt="Profile views" /> </p>
 
-<img align="right" height="210" src="https://art.pixilart.com/sr234bdd746d0aws3.png">
-
 <br />
 <div align="left">
 
