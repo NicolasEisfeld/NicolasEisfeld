@@ -6,7 +6,7 @@
 <br />
 <div align="left">
 
-- 🎲 I’m interested in Data Science
+- 🎲 I’m interested in Software Engineer and Machine Learning
   
 - 📖 I'm studying IT in IFRS technical education
   
@@ -27,7 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
 ![Java](https://img.shields.io/badge/Java-262626.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
-![C++](https://img.shields.io/badge/-C++-262626?logo=cplusplus)&nbsp;
 
 
 <br />
