@@ -18,17 +18,18 @@
 <br />
 
 ## 💻 Hard Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-262626?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-262626?style=flat&logo=HTML5)&nbsp;
-![Git](https://img.shields.io/badge/-Git-262626?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
 ![Java](https://img.shields.io/badge/Java-262626.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-262626?style=flat&logo=Spring)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-262626?style=flat&logo=typescript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-262626.svg??style=for-the-badge&logo=jquery&logoColor=blue)&nbsp;
-
+![Python](https://img.shields.io/badge/-Python-262626?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-262626?style=flat&logo=HTML5)&nbsp;
+![React](https://img.shields.io/badge/React-262626.svg??style=for-the-badge&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-262626?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-262626?style=flat&logo=postgresql)&nbsp;
 
 <br />
 
