@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I’m Nicolas Eisfeld! </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=gray" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=232323" alt="Profile views" /> </p>
 
 <br />
 <div align="left">
@@ -34,18 +34,19 @@
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p >
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=NicolasEisfeld&show_icons=true&theme=dark" alt="NicolasEisfeld's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEisfeld&layout=compact&theme=dark" alt="NicolasEisfeld's most languages"/>
-</p>
+<div align="center">
+  <table >
+    <tr>
+      <td>
+        <img width="500em" src="https://github-readme-stats.vercel.app/api?username=NicolasEisfeld&show_icons=true&theme=apprentice" alt="NicolasEisfeld's stats"/>
+      </td>
+      <td>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEisfeld&layout=compact&theme=apprentice" alt="NicolasEisfeld's most languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <br />
-
-## Contact
-
-<p align="left" style="background:red">
-
-<a href="https://instagram.com/nicoeisfeld_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
 
