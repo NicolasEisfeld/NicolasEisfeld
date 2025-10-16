@@ -1,7 +1,10 @@
 
 <h1 align="left">Hi, I’m Nicolas Eisfeld! </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=232323" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasEisfeld&color=232323" alt="Profile views" />
+<a href="https://www.instagram.com/nico.eisfeld/"><img src="https://img.shields.io/badge/Instagram-262626.svg??style=for-the-badge&logo=instagram" alt="Instagram"/></a> 
+<a href="https://www.linkedin.com/in/nicolas-eisfeld/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-262626?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a> </p>
+
 
 <br />
 <div align="left">
@@ -10,7 +13,7 @@
   
 - 📖 I'm studying IT in IFRS technical education
   
-- ☕ I'm programmer in Python and Java
+- ☕ I'm programmer in Java and React
 
 
 </div>
