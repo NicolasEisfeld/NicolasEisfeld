@@ -32,7 +32,6 @@
 ![Python](https://img.shields.io/badge/-Python-262626?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-262626?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-262626?logo=css&logoColor=43a8d4)&nbsp;
-![React](https://img.shields.io/badge/React-262626.svg??style=for-the-badge&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-262626?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
