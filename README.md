@@ -15,7 +15,7 @@
   
 - 📖 I'm studying IT in IFRS technical education
   
-- ☕ I'm programmer in Java and React
+- ☕ I'm programmer in Java and TypeScript
 
 
 </div>
