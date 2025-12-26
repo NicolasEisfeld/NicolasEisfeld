@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-262626?style=flat&logo=typescript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-262626.svg??style=for-the-badge&logo=jquery&logoColor=blue)&nbsp;
+![React](https://img.shields.io/badge/-React-262626?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-262626.svg??style=for-the-badge&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-262626?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-262626?style=flat&logo=HTML5)&nbsp;
@@ -38,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-262626?style=flat&logo=postgresql)&nbsp;
-
+![Flyway](https://img.shields.io/badge/-Flyway-262626?style=flat&logo=flyway)&nbsp;
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
