@@ -13,11 +13,11 @@
 <br />
 <div align="left">
 
-- 🎲 I’m interested in Software Engineer and Machine Learning
+- 🎲 I’m interested in Software Engineer
   
 - 📖 I'm studying IT in IFRS technical education
   
-- ☕ I'm programmer in Java and TypeScript
+- ☕ I'm programmer in Java with Spring Boot, and TypeScript
 
 
 </div>
