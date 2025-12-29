@@ -8,21 +8,16 @@
 <a href="https://leetcode.com/u/NicolasEisfeld/"><img src="https://custom-icon-badges.demolab.com/badge/Leetcode-262626?logo=leetcode&logoColor=fff" alt="LeetCode"/></a> 
   
 </p>
-
-
-<br />
 <div align="left">
 
 - 🎲 I’m interested in Software Engineer
   
 - 📖 I'm studying IT in IFRS technical education
   
-- ☕ I'm programmer in Java with Spring Boot, and TypeScript
+- ☕ I'm programmer in Java with Spring Boot, and TypeScript with React.js
 
 
 </div>
-
-<br />
 
 ## 💻 Hard Skills
 ![Java](https://img.shields.io/badge/Java-262626.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
