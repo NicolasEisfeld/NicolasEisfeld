@@ -37,22 +37,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-262626?style=flat&logo=postgresql)&nbsp;
 ![Flyway](https://img.shields.io/badge/-Flyway-262626?style=flat&logo=flyway)&nbsp;
-<br />
-
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <table >
-    <tr>
-      <td>
-        <img width="500em" src="https://github-readme-stats.vercel.app/api?username=NicolasEisfeld&show_icons=true&theme=apprentice" alt="NicolasEisfeld's stats"/>
-      </td>
-      <td>
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEisfeld&layout=compact&theme=apprentice" alt="NicolasEisfeld's most languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
-<br />
 
