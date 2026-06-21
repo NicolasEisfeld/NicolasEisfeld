@@ -34,6 +34,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-262626?logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-262626?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-262626?style=flat&logo=docker)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-262626?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-262626?style=flat&logo=postgresql)&nbsp;
 ![Flyway](https://img.shields.io/badge/-Flyway-262626?style=flat&logo=flyway)&nbsp;
